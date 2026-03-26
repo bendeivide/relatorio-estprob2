@@ -168,3 +168,4 @@ Relatórios desenvolvidos:
 - [Relatório 01 (26/03/2026)](rel01/index.html){target="_blank"}
 - ...
 - [Relatorio 04 (Insira a data)](rel04/index.html){target="_blank"}
+- [Relatorio 05 (Insira a data)](rel05/index.html){target="_blank"}
