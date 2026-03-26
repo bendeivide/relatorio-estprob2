@@ -1,6 +1,6 @@
 ---
 # Só mude aqui!!!!
-author: "Nome do Aluno"
+author: "Ben e Aluno 02"
 title: "Relatório 05 (Alterado)"
 bibliography: referencias.bib
 # A partir daqui nao faca alteracoes!!!!!
